@@ -1,4 +1,4 @@
 # devops-class
-This is learning session of devops
+This is a Devops learning session.
 <br>
 Author-Ishwari Gunaki
